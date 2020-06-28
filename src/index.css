@@ -1,0 +1,76 @@
+
+
+
+@font-face {
+  font-family: 'Rubik-Black';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Black.ttf'), url('./assets/fonts/Rubik-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-BlackItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-BlackItalic.ttf'), url('./assets/fonts/Rubik-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Bold.ttf'), url('./assets/fonts/Rubik-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-BoldItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-BoldItalic.ttf'), url('./assets/fonts/Rubik-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Italic.ttf'), url('./assets/fonts/Rubik-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rubik-Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Light.ttf'), url('./assets/fonts/Rubik-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-LightItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-LightItalic.ttf'), url('./assets/fonts/Rubik-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Medium.ttf'), url('./assets/fonts/Rubik-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-MediumItalic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-MediumItalic.ttf'), url('./assets/fonts/Rubik-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rubik-Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rubik-Regular.ttf'), url('./assets/fonts/Rubik-Regular.ttf') format('truetype');
+}
+
+body {
+  margin:0 auto !important;
+  max-width: 1366px;
+  background-color:#F2F2F2;
+}
